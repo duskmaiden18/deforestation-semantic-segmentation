@@ -12,8 +12,6 @@ U-Net is a convolutional neural network for fast and accurate image segmentation
 ### Result
 Here is an example of a predicted mask for input image from a trained network:
 
-Input image         |  Predicted mask
-:-------------------------:|:-------------------------:
 ![Input](./result/5.png) 
 
 ### Problems
